@@ -1,0 +1,6 @@
+1. Spacecraft Object
+		This program will detail the 'spacecraft' object to be used in simulations
+	Modules: 
+		getInertia
+		addReactionWheel
+		addThruster

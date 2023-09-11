@@ -1,1 +1,1 @@
-test readme
+Independent Study in Computational Spacecraft Attitude Dynamics with Dr Kurt Anderson at RPI
